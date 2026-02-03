@@ -18,7 +18,7 @@ public class PalindromeCheck {
     }
 }
 
-public class Palindrome {
+class Palindrome {
     public static void main(String[] args) {
         int number = 4554; // Example number
         PalindromeCheck obj = new PalindromeCheck();
