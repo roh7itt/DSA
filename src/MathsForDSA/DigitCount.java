@@ -33,7 +33,7 @@ public class DigitCount {
 //To count the number of digits in a number,
 // we can use the algorithm created in Extract Digits
 // as now instead of extracting digits we are simply
-// creating a counter to count the number of digits in the number..
+// creating a counter to count the number of digits in the number.
 //
 //Algorithm:
 //
