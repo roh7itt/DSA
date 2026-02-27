@@ -28,6 +28,7 @@ public class Transpose {
         int r = sc.nextInt();
         int c = sc.nextInt();
         int[][] matrix = new int[r][c];
+        int totalElement = r*c;
         System.out.println("Enter matrix values");
         for (int i = 0; i < r; i++) {
             for (int j = 0; j < c; j++) {
